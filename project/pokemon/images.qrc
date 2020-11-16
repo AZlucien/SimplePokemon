@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/title.jpg</file>
+        <file>images/gamewidget.jpg</file>
+        <file>images/backgr.jpg</file>
+        <file>images/copper.jpg</file>
+        <file>images/gold.jpg</file>
+        <file>images/sliver.jpg</file>
+        <file>images/defensePoke.jpg</file>
+        <file>images/powerPoke.jpg</file>
+        <file>images/quickPoke.jpg</file>
+        <file>images/tankPoke.jpg</file>
+    </qresource>
+</RCC>

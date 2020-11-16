@@ -1,0 +1,5 @@
+先打开一个Server
+可以用云服务器的cloudServer
+或者本地的pokemonServer（需要本地Mysql）
+
+再打开客户端pokemonClient

@@ -1,0 +1,4 @@
+源码位于project中
+可执行文件位于exe中
+README.MD需要的图片位于image中
+课程报告在README（MD和PDF）中
