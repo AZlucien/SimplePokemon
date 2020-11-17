@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.12.2, 2020-09-08T16:01:37. -->
+<!-- Written by QtCreator 4.12.2, 2020-11-18T00:09:09. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -308,8 +308,9 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/codes from QT5/cloudPoke/PokeServer.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/codes from QT5/cloudPoke/PokeServer.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">PokeServer2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/learn/其他/课设和实践/C++课设/project/cloudPoke/PokeServer.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/learn/其他/课设和实践/C++课设/project/cloudPoke/PokeServer.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
