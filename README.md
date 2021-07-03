@@ -143,11 +143,11 @@ else
 ```python
 //数据库连接
 QSqlDatabase db = QSqlDatabase::addDatabase("QMYSQL");
-db.setHostName("140.143.142.112");
+db.setHostName("remoteHostName");
 db.setPort(3306);
 db.setDatabaseName("pokemon");
 db.setUserName("pokemon");
-db.setPassword("poke1161");
+db.setPassword("password");
 
 bool ok = db.open();
 if (ok)
